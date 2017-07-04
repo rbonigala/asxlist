@@ -1,0 +1,26 @@
+﻿<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBLvH-d_edUAnORazCUwJnOF0jLzBNIHoY"></script>
+@{
+    ViewBag.Title = "About";
+}
+
+
+
+<h2>@ViewBag.Title.</h2>
+<h3>@ViewBag.Message</h3>
+
+<div id="map"></div>
+<p>Use this area to provide additional information.</p>
+
+@section Scripts
+{
+    
+    <script>
+        var mapOptions = {
+            center: new google.maps.LatLng(37.7831, -122.4039),
+            zoom: 12,
+            mapTypeId: google.maps.MapTypeId.ROADMAP
+        };
+
+        new google.maps.Map(document.getElementById('map'), mapOptions);
+    </script>
+}

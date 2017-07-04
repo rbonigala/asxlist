@@ -1,0 +1,36 @@
+﻿@using ASXList.Models
+@{
+    ViewBag.Title = "Home Page";
+}
+
+
+<div class="row">
+
+    <table class="table table-striped infinite-scroll">
+        <thead>
+            <tr>
+                <th>Code</th>
+                <th>Name</th>
+                <th>Mailing Address</th>
+                <th>Registered Address</th>
+                <th>Compnay Origin</th>
+            </tr>
+        </thead>
+        <tbody>
+            @Html.Partial("_CompanyData", (ViewBag.Companies as List<Company>))
+        </tbody>        
+    </table>
+</div>
+@section scripts{
+    <script src="~/Scripts/lazyLoading.js"></script>
+    <script type="text/javascript">
+
+        $(function () {
+            $("div#loading").hide();
+        });
+
+        var url = '@Url.RouteUrl("CompanyList")';
+        $(window).scroll(scrollHandler);
+    </script>
+}
+ 

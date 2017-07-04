@@ -1,0 +1,138 @@
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\ApplicationInsights.config
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\roslyn\csc.exe
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\roslyn\csc.exe.config
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\roslyn\csc.rsp
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\roslyn\csi.exe
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\roslyn\csi.rsp
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\roslyn\System.AppContext.dll
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\roslyn\System.Collections.Immutable.dll
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\roslyn\System.IO.FileSystem.dll
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\roslyn\vbc.exe
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\roslyn\vbc.exe.config
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\roslyn\vbc.rsp
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\roslyn\VBCSCompiler.exe
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\roslyn\VBCSCompiler.exe.config
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\ASXList.dll.config
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\ASXList.dll
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\ASXList.pdb
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\Antlr3.Runtime.dll
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\Microsoft.AI.Web.dll
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\Microsoft.AI.WindowsServer.dll
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\Microsoft.ApplicationInsights.dll
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\Microsoft.Web.Infrastructure.dll
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\Newtonsoft.Json.dll
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\System.Web.Helpers.dll
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\System.Web.Mvc.dll
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\System.Web.Optimization.dll
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\System.Web.Razor.dll
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\System.Web.WebPages.Deployment.dll
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\System.Web.WebPages.dll
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\System.Web.WebPages.Razor.dll
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\WebGrease.dll
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\System.Web.Helpers.xml
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\System.Web.Mvc.xml
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\System.Web.Optimization.xml
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\System.Web.Razor.xml
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\System.Web.WebPages.xml
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\System.Web.WebPages.Deployment.xml
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\System.Web.WebPages.Razor.xml
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\Antlr3.Runtime.pdb
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\Newtonsoft.Json.xml
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\Microsoft.ApplicationInsights.xml
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\Microsoft.AI.WindowsServer.xml
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\bin\Microsoft.AI.Web.xml
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\obj\Debug\ASXList.csprojResolveAssemblyReference.cache
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\obj\Debug\ASXList.dll
+c:\users\rababu\documents\visual studio 2017\Projects\ASXList\ASXList\obj\Debug\ASXList.pdb
+C:\Users\rababu\Documents\Visual Studio 2017\Projects\ASXList\ASXList\bin\RestSharp.dll
+C:\Users\rababu\Documents\Visual Studio 2017\Projects\ASXList\ASXList\bin\RestSharp.xml
+C:\raj\ASXList\ASXList\bin\ApplicationInsights.config
+C:\raj\ASXList\ASXList\bin\roslyn\csc.exe
+C:\raj\ASXList\ASXList\bin\roslyn\csc.exe.config
+C:\raj\ASXList\ASXList\bin\roslyn\csc.rsp
+C:\raj\ASXList\ASXList\bin\roslyn\csi.exe
+C:\raj\ASXList\ASXList\bin\roslyn\csi.rsp
+C:\raj\ASXList\ASXList\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\raj\ASXList\ASXList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\raj\ASXList\ASXList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\raj\ASXList\ASXList\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\raj\ASXList\ASXList\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\raj\ASXList\ASXList\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\raj\ASXList\ASXList\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\raj\ASXList\ASXList\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\raj\ASXList\ASXList\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\raj\ASXList\ASXList\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\raj\ASXList\ASXList\bin\roslyn\System.AppContext.dll
+C:\raj\ASXList\ASXList\bin\roslyn\System.Collections.Immutable.dll
+C:\raj\ASXList\ASXList\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\raj\ASXList\ASXList\bin\roslyn\System.IO.FileSystem.dll
+C:\raj\ASXList\ASXList\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\raj\ASXList\ASXList\bin\roslyn\System.Reflection.Metadata.dll
+C:\raj\ASXList\ASXList\bin\roslyn\vbc.exe
+C:\raj\ASXList\ASXList\bin\roslyn\vbc.exe.config
+C:\raj\ASXList\ASXList\bin\roslyn\vbc.rsp
+C:\raj\ASXList\ASXList\bin\roslyn\VBCSCompiler.exe
+C:\raj\ASXList\ASXList\bin\roslyn\VBCSCompiler.exe.config
+C:\raj\ASXList\ASXList\bin\ASXList.dll.config
+C:\raj\ASXList\ASXList\bin\ASXList.dll
+C:\raj\ASXList\ASXList\bin\ASXList.pdb
+C:\raj\ASXList\ASXList\bin\Antlr3.Runtime.dll
+C:\raj\ASXList\ASXList\bin\Microsoft.AI.Agent.Intercept.dll
+C:\raj\ASXList\ASXList\bin\Microsoft.AI.DependencyCollector.dll
+C:\raj\ASXList\ASXList\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\raj\ASXList\ASXList\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\raj\ASXList\ASXList\bin\Microsoft.AI.Web.dll
+C:\raj\ASXList\ASXList\bin\Microsoft.AI.WindowsServer.dll
+C:\raj\ASXList\ASXList\bin\Microsoft.ApplicationInsights.dll
+C:\raj\ASXList\ASXList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\raj\ASXList\ASXList\bin\Microsoft.Web.Infrastructure.dll
+C:\raj\ASXList\ASXList\bin\Newtonsoft.Json.dll
+C:\raj\ASXList\ASXList\bin\RestSharp.dll
+C:\raj\ASXList\ASXList\bin\System.Web.Helpers.dll
+C:\raj\ASXList\ASXList\bin\System.Web.Mvc.dll
+C:\raj\ASXList\ASXList\bin\System.Web.Optimization.dll
+C:\raj\ASXList\ASXList\bin\System.Web.Razor.dll
+C:\raj\ASXList\ASXList\bin\System.Web.WebPages.Deployment.dll
+C:\raj\ASXList\ASXList\bin\System.Web.WebPages.dll
+C:\raj\ASXList\ASXList\bin\System.Web.WebPages.Razor.dll
+C:\raj\ASXList\ASXList\bin\WebGrease.dll
+C:\raj\ASXList\ASXList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\raj\ASXList\ASXList\bin\RestSharp.xml
+C:\raj\ASXList\ASXList\bin\System.Web.Helpers.xml
+C:\raj\ASXList\ASXList\bin\System.Web.Mvc.xml
+C:\raj\ASXList\ASXList\bin\System.Web.Optimization.xml
+C:\raj\ASXList\ASXList\bin\System.Web.Razor.xml
+C:\raj\ASXList\ASXList\bin\System.Web.WebPages.xml
+C:\raj\ASXList\ASXList\bin\System.Web.WebPages.Deployment.xml
+C:\raj\ASXList\ASXList\bin\System.Web.WebPages.Razor.xml
+C:\raj\ASXList\ASXList\bin\Antlr3.Runtime.pdb
+C:\raj\ASXList\ASXList\bin\Newtonsoft.Json.xml
+C:\raj\ASXList\ASXList\bin\Microsoft.ApplicationInsights.xml
+C:\raj\ASXList\ASXList\bin\Microsoft.AI.DependencyCollector.xml
+C:\raj\ASXList\ASXList\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\raj\ASXList\ASXList\bin\Microsoft.AI.WindowsServer.xml
+C:\raj\ASXList\ASXList\bin\Microsoft.AI.Web.xml
+C:\raj\ASXList\ASXList\obj\Debug\ASXList.csprojResolveAssemblyReference.cache
+C:\raj\ASXList\ASXList\obj\Debug\ASXList.dll
+C:\raj\ASXList\ASXList\obj\Debug\ASXList.pdb

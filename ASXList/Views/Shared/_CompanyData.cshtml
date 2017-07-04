@@ -1,0 +1,30 @@
+﻿@model IEnumerable<ASXList.Models.Company>
+
+
+@foreach (var company in Model)
+{
+    var imgIcon = "aus.png";
+    if (company.IsForeign)
+    {
+        imgIcon = "foreign.png";
+    }
+
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => company.ASXCode)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => company.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => company.HeadOfficeAddress)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => company.RegisteredOfficeAddress)
+        </td>
+        <td>
+            <img src="~/Content/Images/@imgIcon" alt="@imgIcon"/>
+        </td>
+    </tr>
+}
+
